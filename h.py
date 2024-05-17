@@ -1,2 +1,2 @@
 print("HE::O")
-print("I love u")
+print("I ove u")
